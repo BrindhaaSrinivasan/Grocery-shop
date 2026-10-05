@@ -1,0 +1,6 @@
+{
+  "name": "Mercer Green Grocers",
+  "description": "Artisanal neighborhood grocery store featuring organic local produce, bakery provisions, fresh dairy, and pantry staples with in-store pickup and local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
